@@ -1,0 +1,10 @@
+#initially-hidden{
+  display: none;
+}
+
+li{
+  list-style-type: none;
+  margin-left: 15px;
+}
+
+li
